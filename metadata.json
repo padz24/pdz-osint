@@ -1,0 +1,6 @@
+{
+  "name": "PDZ OSINT Toolkit",
+  "description": "Multi-platform OSINT framework and console with 33 modules for recon, IP lookups, DNS resolution, and security analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
